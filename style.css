@@ -1,0 +1,19 @@
+.social img {
+opacity: 0.6;
+}
+.social img:hover {
+opacity: 1;
+}
+.social{
+margin-top:50px;
+}
+.text{
+	width:800px; background-color:#b2dbbd;
+}
+.mypic{
+	width:500px;
+	border:5 inset #6C9;
+}
+#nav {
+	display: inline;
+}
